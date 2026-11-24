@@ -1,0 +1,6 @@
+[submodule "vendor/latex-document-skill"]
+	path = vendor/latex-document-skill
+	url = https://github.com/ndpvt-web/latex-document-skill.git
+[submodule "vendor/ste80-humanizer"]
+	path = vendor/ste80-humanizer
+	url = https://github.com/Dodaios/ste80-humanizer.git

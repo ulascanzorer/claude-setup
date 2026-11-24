@@ -1,0 +1,30 @@
+{
+  "extraKnownMarketplaces": {
+    "piyaz": {
+      "source": {
+        "source": "github",
+        "repo": "FrkAk/piyaz"
+      }
+    },
+    "origin-tracker": {
+      "source": {
+        "source": "github",
+        "repo": "ulascanzorer/origin-tracker"
+      }
+    },
+    "wondelai-skills": {
+      "source": {
+        "source": "github",
+        "repo": "wondelai/skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "context7@claude-plugins-official": true,
+    "frontend-design@claude-plugins-official": true,
+    "cloudflare@claude-plugins-official": true,
+    "origin-tracker@origin-tracker": true,
+    "ux-design@wondelai-skills": true,
+    "playwright@anthropic-plugin-directory": true
+  }
+}
