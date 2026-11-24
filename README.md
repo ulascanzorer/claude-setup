@@ -4,8 +4,8 @@ The skills, plugins and global instructions I use with Claude Code.
 
 ## What's here
 
-- `skills/`: my own skills.
-- `vendor/`: skills from other people, as git submodules pinned to the version I use.
+- `skills/`: skills stored directly in this repo.
+- `vendor/`: skills that have their own upstream repos, added as git submodules and pinned to the version I use.
 - `plugins.json`: the plugin marketplaces and plugins I have turned on. Claude Code downloads the plugins itself.
 - `CLAUDE.md`: my global instructions for every project.
 - `install.sh`: links all of it into `~/.claude`.
